@@ -8,5 +8,6 @@ public class FirstClass {
     public void test(){
         System.out.println("aaa");
         System.out.println("aaa");
+        System.out.println("aaa");
     }
 }
