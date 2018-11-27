@@ -7,4 +7,7 @@ public class test {
     public void testt(){
         System.out.println("bbb");
     }
+    public void test2(){
+        System.out.println("55555");
+    }
 }
