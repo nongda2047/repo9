@@ -13,4 +13,7 @@ public class test {
     public void test3(){
         System.out.println("666666");
     }
+    public void test4(){
+        System.out.println("7777777");
+    }
 }
