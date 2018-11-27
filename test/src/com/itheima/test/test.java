@@ -10,4 +10,7 @@ public class test {
     public void test2(){
         System.out.println("55555");
     }
+    public void test3(){
+        System.out.println("666666");
+    }
 }
